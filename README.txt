@@ -5,3 +5,7 @@ run the commands
 
 - dvc dag
     {see if the .ymal file connets all the python file}
+
+api:
+to run api the command is
+- uvicorn main:app --reload
