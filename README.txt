@@ -1,4 +1,7 @@
-Activate the virtual environment
+run the commands
 
-pip install dvc
-dvc init
+- dvc repro
+    {it should run or "Data and pipelines are up to date." this message should come}
+
+- dvc dag
+    {see if the .ymal file connets all the python file}
