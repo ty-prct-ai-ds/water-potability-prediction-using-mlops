@@ -1,0 +1,12 @@
+cmd: python src/data_collection.py
+deps:
+- path: src/data_collection.py
+  hash: md5
+  md5: 4d42d9ed06aa12adcdb4dffe6c3b4b4c
+  size: 450
+outs:
+- path: data/raw
+  hash: md5
+  md5: c0c2d65c14a603e91e029fda3c344a5c.dir
+  size: 522262
+  nfiles: 2
