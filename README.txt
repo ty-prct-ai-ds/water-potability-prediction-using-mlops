@@ -1,5 +1,4 @@
-run the commands
-
+run the commands to run the application
 - dvc repro
     {it should run or "Data and pipelines are up to date." this message should come}
 
