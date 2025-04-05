@@ -9,3 +9,14 @@ run the commands
 api:
 to run api the command is
 - uvicorn main:app --reload
+
+cloud:
+paste the below link in chrome
+- https://water-prediction-cloud.onrender.com/docs
+
+steps:
+- click on Post
+- click on Try it out 
+- replace the value with same other value (replace 0)
+- than click on Execute
+you will see your output in "Response body"
