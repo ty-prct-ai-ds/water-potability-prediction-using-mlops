@@ -2,9 +2,3 @@ dvc
 uvicorn
 fastapi[all]
 pydantic
-
-
-
-
-
-
